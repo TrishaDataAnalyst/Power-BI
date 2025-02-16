@@ -1,6 +1,6 @@
 # Welcome to My Awesome Power BI Project!
 
-(Portfolio Dashboard)----
+(Portfolio Dashboard)----portfolio-dashboard-screenshort.png
 
 # Overview:
 This Power BI report analysis the "Awesome Chocolate" data to uncover trends in sales analysis. This interactive report provides actionable insights using data driven decision making.
