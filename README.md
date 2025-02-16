@@ -1,5 +1,7 @@
 # Welcome to My Awesome Power BI Project!
 
+(Portfolio Dashboard)----
+
 # Overview:
 This Power BI report analysis the "Awesome Chocolate" data to uncover trends in sales analysis. This interactive report provides actionable insights using data driven decision making.
 
@@ -11,8 +13,8 @@ This Power BI report analysis the "Awesome Chocolate" data to uncover trends in 
 5.	Data Visualization
 
 # Tools Used:
-Excel (Data Source) from Chandoo.org
-Power BI (Power Query, DAX)
+* Excel (Data Source) from Chandoo.org
+* Power BI (Power Query, DAX)
 
 # File Navigation - "How to Use":
 1.	Download the Awesome_Choc_Trisha.pbix file and open it in Power BI Desktop
