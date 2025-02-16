@@ -17,8 +17,8 @@ This Power BI report analysis the "Awesome Chocolate" data to uncover trends in 
 * Power BI (Power Query, DAX)
 
 # File Navigation - "How to Use":
-1.	Download the Awesome_Choc_Trisha.pbix file and open it in Power BI Desktop
-2.	Explore interactive dashboards using slicers and filters by hovering the dashboard
+1.	Download the Awesome_Choc_Trisha.pbix file and open it in Power BI Desktop.
+2.	Explore interactive dashboards using slicers and filters by hovering the dashboard.
    
 # Key Insights
 - The largest sales and profit were recorded in December in every country, suggesting a robust seasonal tendency and peak business performance throughout the holiday season.
